@@ -1,8 +1,0 @@
-;Найти корень заданного числа.
-(defun find-square-root (number)
-  (if (>= number 0)
-      (sqrt number)
-      (format t "Отрицательное число - корень не существует.~%")))
-
-(let ((input 16)) ; Замените 16 на ваше заданное число
-  (format t "Квадратный корень: ~a~%" (find-square-root input)))

@@ -1,9 +1,0 @@
-; Функция вычисления факториала
-(defun factorial (n)
-  (if (= n 0) ; если n=0
-      1
-      (* n (factorial (- n 1)))))
-
-(format t "Введите число для вычисления факториала: ")
-(let ((number (parse-integer (read-line))))
-  (format t "Факториал ~a равен ~a" number (factorial number)))
