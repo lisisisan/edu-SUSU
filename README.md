@@ -1,5 +1,5 @@
 **Технологии параллельного программирования**
 
-– OpenMP
 - MPI
-– GPU (Cuda, OpenAcc / Arm GPU .mm)
+- OpenMP
+- GPU (Cuda, OpenAcc / Arm GPU .mm)
