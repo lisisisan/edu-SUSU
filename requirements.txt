@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+datasets
+accelerate
+evaluate
+nltk
+rouge-score
+pillow
+tqdm
+wandb
+tensorboard

@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.pyc
+.env
+*.zip
+outputs/
+logs/
+.vscode/
