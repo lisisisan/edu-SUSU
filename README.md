@@ -12,15 +12,18 @@
 
 * **График функции потерь (loss):**
   `runs/experiment1/events.out.tfevents.*` (можно просмотреть в TensorBoard)
-  или сохранить изображение из TensorBoard как:
-  `images/loss_curve.png`
 
 * **Графики метрик по эпохам:**
 
-  * BLEU — `images/bleu_curve.png`
-  * ROUGE-1 — `images/rouge1_curve.png`
-  * ROUGE-L — `images/rougel_curve.png`
-  * SPICE — `images/spice_curve.png`
+  * BLEU 
+<img src="https://github.com/lisisisan/edu-SUSU/blob/AI-synthetic-media-image-captioning-coco/images/bleu_curve.png" title="bleu_curve" alt="bleu_curve"/>&nbsp;
+
+  * ROUGE-1 
+<img src="https://github.com/lisisisan/edu-SUSU/blob/AI-synthetic-media-image-captioning-coco/images/rouge1_curve.png" title="rouge1_curve" alt="rouge1_curve"/>&nbsp;
+  * ROUGE-L 
+<img src="https://github.com/lisisisan/edu-SUSU/blob/AI-synthetic-media-image-captioning-coco/images/rougel_curve.png" title="rougel_curve" alt="rougel_curve"/>&nbsp;
+  * SPICE 
+<img src="https://github.com/lisisisan/edu-SUSU/blob/AI-synthetic-media-image-captioning-coco/images/spice_curve.png" title="spice_curve" alt="spice_curve"/>&nbsp;
 
 ## Анализ результатов
 
